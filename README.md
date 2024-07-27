@@ -11,7 +11,7 @@ The dataset used for this analysis is `day.csv`, which includes the following co
 - `instant`: Record index
 - `dteday`: Date
 - `season`: Season (1: winter, 2: spring, 3: summer, 4: fall)
-- `yr`: Year (0: 2011, 1: 2012)
+- `yr`: Year (0: 2018, 1: 2019)
 - `mnth`: Month (1 to 12)
 - `holiday`: Whether the day is a holiday or not (1: holiday, 0: not a holiday)
 - `weekday`: Day of the week (0 to 6)
